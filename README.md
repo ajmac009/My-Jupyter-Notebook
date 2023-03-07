@@ -1,2 +1,2 @@
 # My-Jupyter-Notebook
-Week 4 Assignment Create and Share Jupyter Notebook and Create Markdown Cells. 
+Course 2 IBM Tools for Data Science Week 4 -- First Assignment Create and Share Jupyter Notebook and Create Markdown Cells. 
